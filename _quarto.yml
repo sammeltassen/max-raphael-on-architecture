@@ -1,0 +1,39 @@
+project:
+  type: book
+
+book:
+  title: "Max Raphael on Architecture"
+  author: "Jules Schoonman"
+  date: "9/2/2025"
+  chapters:
+    - index.qmd
+    - translation.qmd
+    - commentary.qmd
+    - references.qmd
+
+bibliography: ref/bibliography.bib
+# csl: ref/chicago-notes-bibliography-classic.csl
+nocite: |
+  @*
+
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Commentary
+      key: cmt
+
+format:
+  html:
+    resources: assets/
+    # toc-location: body
+    respect-user-color-scheme: true
+    smooth-scroll: true
+    link-external-icon: true
+    theme:
+      light: flatly
+      dark: darkly
+    other-links:
+      - text: Max Raphael Project
+        href: https://www.maxraphael.org/
+  pdf:
+    documentclass: scrreprt
