@@ -1,57 +1,89 @@
-# Commentary {.unnumbered}
+---
+format: 
+  html:
+    number-sections: true
+    toc-depth: 10
+    number-depth: 4
+---
+# Commentary
 
 ## Teaching at the Volkshochschule {#sec-dedication}
 
-> Dedicated to my students at the Volkshochschule Groß-Berlin in memory of collective work. 
+::: {.callout-note}
+_The Doric Temple_ is dedicated to Raphael's students at the Volkshochschule, 'in memory of collective work'. This section paints the background of the Volkshochschule, and reconstructs Raphael's teaching method, his circle of students and course subjects.
+:::
 
 After his desertion from the army and escape to Switzerland in 1917, Raphael returned to Berlin in 1920. Following Heinrich Wölfflin's refusal to accept _Von Monet zu Picasso_ as a dissertation, Raphael was condemned to a career outside of the university, working as private teacher, writer and tour guide. From 1924 to 1932 Raphael taught at the Volkshochschule Groß-Berlin, and also briefly at the Marxistischen-Arbeiter-Schule, both newly founded institutions for adult education in the Weimar Republic.[^780da9eb]
 
-[^780da9eb]: The Volkshochschule opened on January 10, 1920. That same year different municipalities were consolidated into Groß-Berlin. Due to the large number of unemployed citizens and predominance of socialism, many institutions for adult education were founded. Some were initiated by political parties, such as the Marxistischen Arbeiterschule Berlin (1926-1933) by the Kommunistische Partei Deutschlands (KPD). This was not the case for the Volkshochschule, which aimed to avoid party politics. It was the largest and most influential school for adult education in Berlin [@Urbach1971]. In his overview of contemporaneous schools, Urbach also mentions the Lessing-Hochschule led by Ludwig Lewin until 1933. The Ludwig-Lewin-Archiv at the Akademie der Künste Berlin includes a correspondence between Lewin and Raphael, who were friends, from 1906 until 1912.
+[^780da9eb]: The Volkshochschule opened on January 10, 1920. That same year different municipalities were consolidated into Groß-Berlin. Due to the large number of unemployed citizens and predominance of socialism, many institutions for adult education were founded. Some were initiated by political parties, such as the Marxistischen Arbeiterschule Berlin (1926-1933) by the Kommunistische Partei Deutschlands (KPD). This was not the case for the Volkshochschule, which aimed to avoid party politics. It was the largest and most influential school for adult education in Berlin [@Urbach1971]. In his overview of contemporaneous schools, Urbach also lists the Lessing-Hochschule led by Ludwig Lewin until 1933. The Ludwig-Lewin-Archiv at the Akademie der Künste Berlin includes a correspondence between Lewin and Raphael, who were friends, from 1906 until 1912.
 
 The Volkshochschule was open to adults whose previous education was limited to primary school and optional vocational training. The school did not offer re-education, but was rather aimed at workers' general formation as democratic citizens [@Urbach1971, p. 31]. There were no examinations or rewards in the form of certificates; most courses were set up as study groups in which students and lecturers would work together as colleagues or even friends. The socratic method was preferred, in order to entice students to develop their own critical thought and reach their own independent conclusions. The strict selection of teachers was carried by the Berlin university. They were paid 25 Reichsmark per session and generally worked at the Volkshochschule as a side job [@Urbach1971, p. 35, 75, 54].
 
-The 'collective work' that Raphael alludes to, was, in other words, not the exception but the rule.
-
-Raphael taught courses about art and philosophy at the Volkshochschule. In 1925 he lectured about Rembrandt, the next year about Degas and Corot [@Raphael1989e, p. 362]. In a notebook entry from January 1926 he lists 'three courses, a museum guided tour and a collective meeting every two weeks' themed 'the artwork and nature as a model', 'from sketch to image', 'the development of the artist', and 'the effect of color' [@Raphael1989, p. 198]. In 1928 he taught two courses, and the following year one on architecture, which likely dealt with the content from _The Doric Temple_ [@Raphael1989, p. 200]. In a letter he mentions lectures on '_Die antike Skepsis, Die Mystik des Meister Eckart, Die Gottesbeweise des Thomas von Aquino, Die dialektische Methode bei Plato und Hegel, Philosophische Grundfragen des Marxismus_' [@Raphael1989e, p. 362]. Excursions were often part of courses, and one has to keep in mind that many of Raphael's writings started out as lectures in front of the actual works of art.[^b5f9ca75]
+Raphael taught courses about art and philosophy at the Volkshochschule. In 1925 he lectured about Rembrandt, the next year about Degas and Corot [@Raphael1989e, p. 362]. In a notebook entry from January 1926 he lists 'three courses, a museum guided tour and a collective meeting every two weeks' themed 'the artwork and nature as a model', 'from sketch to image', 'the development of the artist', and 'the effect of color' [@Raphael1989, p. 198]. In 1928 he taught two courses, and the following year one on architecture, which likely dealt with the content from _The Doric Temple_ [@Raphael1989, p. 200]. In a letter he mentions lectures on '_Die antike Skepsis, Die Mystik des Meister Eckart, Die Gottesbeweise des Thomas von Aquino, Die dialektische Methode bei Plato und Hegel, Philosophische Grundfragen des Marxismus_' [@Raphael1989e, p. 362]. Excursions were often part of courses and indeed many of Raphael's writings started out as lectures in front of the actual works of art.[^b5f9ca75]
 
 [^b5f9ca75]: 'Wie alle, die Max Raphael persönlich gekannt haben, immer wieder betonen, war sein eigentliches Metier der Vortrag, möglichst unmittelbar vor den Bildwerken. Seine Manuskripte dienten vor allem der Sicherung und Organisierung seiner Beobachtungen, entsprechend den von ihm entwickelten Beschreibungsbegriffen.' [@Raphael1989e, p. 367]
 
-Next to the teachers Edgar Lange and Erich Rein, a steady community of followers formed around Raphael, with whom he also corresponded [@Urbach1971, p. 53]. His, in his own words, favorite student was Erna Siegel, who attended his courses in the early 1930s, and with whom he corresponded until 1952, his year of death. In February of 1952 she writes:
+Beyond _The Doric Temple_, the content of Raphael's courses can be reconstructed through later published essays. Chapters I-IV of the posthumous publication @Raphael1968 are based on his teachings at the Volkshochschule. As he writes in the preface to the first draft in 1930:
 
-> When I attended your courses almost exactly 20 years ago, I was completely uneducated and a blank slate (I mean this only in terms of the mind, please don't laugh). And yet, as far as I remember, I understood most of what you said.[^70bedea9]
+> This work is addressed to all who aspire to culture in the broadest sense, and especially to young people who must work for a living. My aim is to teach them to understand art through the work of art itself; i.e. my approach is scientific. (...) I have tried to stimulate this activity by not writing down to my readers. These essays were conceived within a study group which demanded intensive co-operation and concentration on the part of every member.[^d4a07fb6]
 
-[^70bedea9]: Akademie der Künste, Max-Raphael-Sammlung, Raphael 186
+[^d4a07fb6]: Editorial footnote 2 says that chapters I-IV were delivered as lectures ‘at a Swiss school for adult education’ and that he had also ‘delivered lectures with somewhat similar intentions when he was teaching at an evening high school for adults in Berlin during the late 1920s’. Although Raphael stayed in Davos for several periods from 1927, where he taught courses on art and wrote for the Davoser Revue, I did not find mention of a 'Swiss school for adult education' and therefor infer that Raphael refers to his Berlin study group instead.
 
-In a text written before 1989 titled _Raphael's Method_, Siegel reflects on Raphael's teaching method.
+Each of the essays develops a theory around a single work of art, more or less corresponding to the themes mentioned in Raphael's notebook entry:
 
-It is a testimony to Raphael's pedagogical skills that he was able to convey the detailed analysis of _Der Dorische Tempel_ to an audience of workers that was generally sceptic of intellectuals (Urbach, chapter 7). When, in 1932, Raphael's course on the _Die wissenschaftlichen Grundlagen des 'Kapitals'_ was cancelled by the Volkshochschule, Raphael had already decided to leave Berlin for Paris. (Lebens-Erinnerungen, p. 24, Exil, p. 48) ^JS
+1. The Work of Art and the Model in Nature. On Cézanne's _Mont Sainte-Victoire_.
+2. The Work of the Artistic Imagination. On Edgar Degas' _Leaving the Bath_.
+3. The Artist’s Development. On Giotto's _Lamentation over the Body of Christ and The Death of Saint Francis_.
+4. The Literary Model and the Work of Art. On Rembrandt's _Joseph Interprets Pharoah’s Dreams_.[^1fc4b22e]
 
-<!-- Other student: Ilse Hirschfeld -->
+[^1fc4b22e]: The fifth essay on Picasso's Guernica was written at the end of the 1940s according to the editors of the German edition [@Raphael1989e]. The painting was on display at MOMA from 1939-40. Editorial note 1 in the preface of [@Raphael1968, p. 4] refers to the unpublished manuscript _Corot: Kunst unter dem Liberalismus–Monographie eines Bildes_ which could be based on another lecture series in this period. <!-- Add archival source for manuscript -->
+
+<!-- Marx chapter from Proudhon, Marx, Picasso also in Arbeiter, Kunst und Künstler, and probably composed from lectures at the Volkshochschule according to Redaktionelle Notiz.  -->
+
+<!-- More about the content of the lectures, or in the next section? -->
+
+---
+
+Next to the teachers Edgar Lange and Erich Rein, a steady community of followers formed around Raphael, with whom he also corresponded [@Urbach1971, p. 53]. His, in his own words, favorite student was Erna Siegel,^[AdK, Max-Raphael-Sammlung, Raphael 142] who attended his courses in the early 1930s, and with whom he corresponded until 1952, his year of death. In February of 1952 she writes:
+
+> When I attended your courses almost exactly 20 years ago, I was completely uneducated and a blank slate (I mean this only in terms of the mind, please don't laugh). And yet, as far as I remember, I understood most of what you said.^[Akademie der Künste, Max-Raphael-Sammlung, Raphael 186]
+
+In a text written before 1989 titled _Raphael's Method_, Siegel reflects on Raphael's teaching method. She recalls that the group would never visit the museum without preparation: Raphael would first extensively introduce the artist's work in a lecture, contextualize it within the period in which he was active, and assess the particular relationship between form and content. The visit itself would concentrate on the detailed study of selected works of art; never a superficial overview. The extent to which the artist was successful in expressing the content through the chosen form was discussed. For paintings, the interrelationship between figurations, their effect on the observer, and the incidence and intensity of light was analyzed in detail. For ancient works of art, the golden section played an important role. The surroundings were taken into account for sculpture, in order to create awareness that these need to be taken into account. Raphael expected active listeners, who could follow his analysis, and who–this he liked the most–could complete it or at least respond to it while testifying to their submersion in the matter.
+
+His students were not just any circle at the Volkshochschule–this was _Raphael's circle_, that he led for many years, a loyal following who mockingly called themselves 'Raphaelites'. For the students, mostly workers, it was absolutely new to hear a Marxist lecture about art and philosophy. His sociological approach lowered the threshold for art to an audience that was keen on changing societal conditions. His fame had thus spread under progressive students, and a small group from the university also always attended. The courses were fully booked without exception. The devotion of the students far exceeded the usual. Raphael's eventual departure from Germany hugely impacted his following, since it was not just a trip but an emigration in response to rising fascism. Raphael had a pronounced sensitivity, which was connected to rigorous science.
+
+Raphael had an enormous discipline, not to say he was a workaholic: a normal working day began at 6 or 7 o'clock in the morning and ended late at night, when there were no other obligations. Everything outside work was a distraction. When Siegel worked with Raphael, he regularly attended lectures by the physicist Erwin Schrödinger since he thought higher mathematics would be useful to his work. It seems to Siegel that, with his talent for abstraction, this was also a source of pleasure for him. Raphael was synonymous for Siegel's higher education.[^fb07464c]
+
+[^fb07464c]:
+    Getty Research Institute, Max Raphael papers, 1931-1990, Box 10, Folder 1: Critical material, 1963-1989. The archival description mentions Ilse Hirschfeld, another student of Raphael with whom he remained in touch:
+
+    > \[...] Hirschfeld sought his acquaintance after reading Von Monet zu Picasso. Beginning in 1928 she attended his guided tours at the Berlin Museum and his lectures at the Berlin, Volkshochschule. After Raphael immigrated she remained in constant touch with him until his death in New York.
+
+It is a testimony to Raphael's pedagogical skills that he was able to convey the detailed analysis of _Der Dorische Tempel_ to an audience of workers generally sceptic of intellectuals [@Urbach1971, p. 71]. When, in 1932, Raphael's course on the _Die wissenschaftlichen Grundlagen des 'Kapitals'_ was cancelled by the Volkshochschule, Raphael had already decided to leave Berlin for Paris [@Raphael1989, p. 24; @Raphael1992, p. 48, in a letter to Ilse Hirschfeld].
 
 ## The Struggle to Understand Art {#sec-motto}
 
-The quote is taken from the end of Book X when Odysseus and his men leave the island Aeaea after staying there for a year in the palace of the goddess Circe. While Circe had initially cast a spell on a cohort of his men, transforming them into pigs, Odysseus is able to force Circe to break the spell with the help of Hermes, and to have her welcome him and his men. After enjoying Circe's hospitality for a year, Odysseus is reminded of his homeland and decides to set sail again. His men are in utter despair after hearing that their next destination is the underworld to consult the ghost of Teiresias, following Circe's instructions. This is when she passes by unnoticed:
+::: {.callout-note}
+The analytical method of _The Doric Temple_ is 'based on a science of art rooted in a theory of creation'. To provide more information about this method, Raphael's contemporaneous essay _The Struggle to Understand Art_ is discussed in this section, first published in @Raphael1968.
+:::
 
-> _The men were broken-hearted as they heard me, and threw themselves on the ground groaning and tearing their hair, but they did not mend matters by crying. When we reached the sea shore, weeping and lamenting our fate, Circe brought the ram and the ewe, and we made them fast hard by the ship. She passed through the midst of us without our knowing it, <b>for who can see the comings and goings of a god, if the god does not wish to be seen?</b>_ The Odyssey, Book 10.573, tr Samuel Butler, 1900, [Perseus Digital Library](http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng2:10.13)
+The motto of _The Doric Temple_ is taken from the end of Book X of The Odyssey. Odysseus and his men leave the island Aeaea after staying there for a year in the palace of the goddess Circe. While Circe had initially cast a spell on a cohort of his men, transforming them into pigs, Odysseus is able to force Circe to break the spell with the help of Hermes, and to have her welcome him and his men. After enjoying Circe's hospitality for a year, Odysseus is reminded of his homeland and decides to set sail again. His men are in utter despair after hearing that their next destination is the underworld to consult the ghost of Teiresias, following Circe's instructions. This is when she passes by unnoticed:
 
-In the text _VI. The Struggle to Understand Art_, written in the same year as _The Doric Temple_ and first published in The Demands of Art (1968), Raphael references the same passage when he discusses the three requirements of an active analysis of the work of art. Tracing the creative process, analysis must:
+> The men were broken-hearted as they heard me, and threw themselves on the ground groaning and tearing their hair, but they did not mend matters by crying. When we reached the sea shore, weeping and lamenting our fate, Circe brought the ram and the ewe, and we made them fast hard by the ship. She passed through the midst of us without our knowing it, **for who can see the comings and goings of a god, if the god does not wish to be seen?** [@Homer.1900, Book 10.573, [Perseus Digital Library](http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng2:10.13)]
 
-1.  lead from the creative work to the process of creation;
-2.  reveal artistic creation as directed toward (1) an individual idea in which subjective-conditional and objective-absolute elements are combined, (2) totality (3) necessity;
-3.  replace the world of things with a hierarchy of values (_The Demands of Art_, p. 190).
+In the text _VI. The Struggle to Understand Art_, written in the same year as _The Doric Temple_ and first published in @Raphael1968, Raphael references the same passage when he discusses the three requirements of an 'active analysis' of the work of art. Tracing the creative process, analysis must:
+
+> 1.  lead from the creative work to the process of creation;
+> 2.  reveal artistic creation as directed toward (1) an individual idea in which subjective-conditional and objective-absolute elements are combined, (2) totality (3) necessity;
+> 3.  replace the world of things with a hierarchy of values. [@Raphael1968, p. 190]
 
 The third requirement, the one closest to the essence of a work of art, relates not to its subject matter (say, a painting of a historic battle or a rotten apple) but to the overall associative meaning conveyed by the intensity of its figuration, and the elimination of discrepancies between meaning and subject matter. The figuration resembles a hierarchy of values, but there's no such thing as an absolute value. This is an intrinsic limitation of creative power:
 
-> The work is neither creation ex nihilo nor imitation of the creation of the world. On the margin of what man can do there appears that which he cannot or cannot yet do–but which lies at the root of all creativeness. All great creators have felt this and have most often expressed it in religious language. When Moses wished to look upon God's glory he was told: "Thou shalt see my back parts; but my face shall not be seen." And Homer says: "<b>And when a god wishes to remain unseen, what eye can observe his coming or his going?</b>" (_The Demands of Art_, p. 197)
+> The work is neither creation ex nihilo nor imitation of the creation of the world. On the margin of what man can do there appears that which he cannot or cannot yet do–but which lies at the root of all creativeness. All great creators have felt this and have most often expressed it in religious language. When Moses wished to look upon God's glory he was told: "Thou shalt see my back parts; but my face shall not be seen." And Homer says: "**And when a god wishes to remain unseen, what eye can observe his coming or his going?**"  [@Raphael1968, p. 197, emphasis added]
 
-The motto thus expresses not only the limitations of an artistic work, but also the limitations of the investigation that follows in _The Doric Temple_. 'Any investigation of art must \[...] recognize that its main purpose is "to have probed what is knowable and quietly to revere what is unknowable."' (_The Demands of Art_, p. 198; quote from _Goethe: Wisdom and Experience_, selected by Ludwig Curtius, tr. and ed. Hermann J. Weigand (New York, 1949), p. 94)
+The motto thus expresses not only the limitations of an artistic work, but also the limitations of the investigation that follows in _The Doric Temple_. 'Any investigation of art must \[...] recognize that its main purpose is "to have probed what is knowable and quietly to revere what is unknowable."' [@Raphael1968, p. 198, quote from _Goethe: Wisdom and Experience_, selected by Ludwig Curtius, tr. and ed. Hermann J. Weigand (New York, 1949), p. 94]
 
-## Le Corbusier {#sec-le-corbusier}
-
-Some of the context for the inclusion of the architect Le Corbusier in this enumeration of the avant-garde, and Raphael's general shift from painting to architecture can be found in a review by Raphael of Le Corbusier's _Gesamtwerk 1910-1929_, published in the same year as _Der Dorische Tempel_. It first appeared in March in the Davoser Revue and two months later in Der Kreis in revised form.
-(...)
-
-## Goethe {#sec-goethe}
+### Goethe and Winckelmann {#sec-goethe}
 
 Goethe visited Paestum together with the painter [Christoph Heinrich Kniep](https://en.wikipedia.org/wiki/Christoph_Heinrich_Kniep) on March 23, 1787. After dwelling upon Kniep's talent and their fruitful collaboration, Goethe describes his experience visiting the site in his travel journal. After an overnight stay in Salerno, they entered the desolate flatlands south of the city. When the temples appeared on the horizon, they first mistook them for rocks or ruins. From close by it also required some effort to get used to their appearance:
 
@@ -68,3 +100,38 @@ The ratios given by Vitruvius for the relationships between diameter of columns,
 The last sentence of the quote could very well stem from Raphael, and shows that his empirical method bears some relationship to the 18th century origins of art history.
 
 See also: [Winckelmann, Johann Joachim, Schriften und Nachlaß (Bd. 3): Schriften zur antiken Baukunst](https://doi.org/10.11588/diglit.52511#0060)
+
+### Structure of the The Doric Temple book
+
+## Raphael's Position
+
+::: {.callout-note}
+In the footnotes of _The Doric Temple_ Raphael positions himself vis-à-vis writings of architects, archeologists and art historians. This sections extracts those footnotes and contextualizes them.
+:::
+
+### Metric versus rhythmic
+
+_Footnote 5_
+
+Summary: These assertions counter the measurements of Koldewey. Multiple centimeters in the case of Segesta. Criticises measurements of Puchstein and Koldewey. There is a rhythmic contraction, not simply a metric one. P. and K. interpret the building to fit their hypothesis: everything else is a deviation. Everything can be averaged with maths. The bays are miscalculated. The average is _not_ present in the actual temple. It is methodically impossible to speak of uniform dimension and inaccuracies. It’s not that there is no average or norm, but these are underlying principles, the backbones for the development of the dimensions, _not their concrete reality_. Their realisation is not based on technical inaccuracies but on the principle of free rhythm, which is varied at each interval with the aim to develop multiple solutions to the same challenge, to relate and interpenetrate row and symmetry. 
+
+### Sculpture versus architecture
+
+_Footnote 10_
+
+About the difference between sculpture and architecture.
+
+### Greek conception of space
+
+_Footnote 13_
+
+About the Greek conception of space.
+
+## Building or Revolution {#sec-le-corbusier}
+
+::: {.callout-note}
+Throughout _The Doric Temple_ the architect Le Corbusier is mentioned several times, and the book aims to 'consciously contribute to a new Greek renaissance'. This section places the references to Le Corbusier, within the context of Raphael's broader engagement with modern architecture in the 1930s.
+:::
+
+Some of the context for the inclusion of the architect Le Corbusier in this enumeration of the avant-garde, and Raphael's general shift from painting to architecture can be found in a review by Raphael of Le Corbusier's _Gesamtwerk 1910-1929_, published in the same year as _Der Dorische Tempel_. It first appeared in March in the Davoser Revue and two months later in Der Kreis in revised form.
+(...)
