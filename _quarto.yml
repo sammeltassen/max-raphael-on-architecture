@@ -21,6 +21,7 @@ crossref:
     - kind: float
       reference-prefix: Commentary
       key: cmt
+      latex-env: commentary
 
 format:
   html:
