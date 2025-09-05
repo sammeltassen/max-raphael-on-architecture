@@ -15,7 +15,7 @@ bibliography: ref/bibliography.bib
 # csl: ref/chicago-notes-bibliography-classic.csl
 nocite: |
   @*
-
+lightbox: true
 crossref:
   custom:
     - kind: float
@@ -24,15 +24,19 @@ crossref:
 
 format:
   html:
-    resources: assets/
+    resources: static/
     # toc-location: body
     number-sections: false
     respect-user-color-scheme: true
     smooth-scroll: true
     link-external-icon: true
     theme:
-      light: flatly
-      dark: darkly
+      light:
+        - flatly
+        - static/css/custom.scss
+      dark:
+        - darkly
+        - static/css/custom.scss
     other-links:
       - text: Max Raphael Project
         href: https://www.maxraphael.org/

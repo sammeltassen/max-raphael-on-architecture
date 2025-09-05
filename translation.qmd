@@ -1,7 +1,7 @@
 ---
 format: 
   html:
-    css: assets/leaflet.css
+    css: static/css/leaflet.css
     number-sections: true
     toc-depth: 10
     number-depth: 4
@@ -12,9 +12,11 @@ execute:
 
 ::: {.callout-note}
 This is a working translation (and in part summary) of Max Raphael's 1930 book _Der Dorische Tempel_. The translation, commentary and new illustrations are made by Jules Schoonman as part of his PhD research on Max Raphael's writings on architecture.
+
 The text contains three types of footnotes: by Max Raphael from the original edition, indicated by `^MR`, by the editors of the Suhrkamp Werkausgabe, indicated by `^WA`, and new ones by Jules Schoonman, marked by `^JS`. In the source code of this page, the numbering of the footnotes in the original edition is preserved.
+
 Existing headings have been abbreviated and new ones have been added for clarity and ease of navigation. Some of the editorial changes in the Werkausgave have been reverted to stay true to the original structure of the publication.
-Translator's notes have been added through either `<!-- HTML comments -->` in the source file or [bracketed].
+Translator's notes have been added through either `<!-- HTML comments -->` in the source file or [bracketed]. [Transcribed German text waiting to be translated is colored purple.]{.german}
 :::
 
 <!---
@@ -92,7 +94,7 @@ I will first discuss the design of the building and the space (_Raumes_), and su
 ::: {#fig-example}
 
 <div id="map" style="height: 400px; width:100%; z-index: 1;"></div>
-<script type="module" src="/assets/js/doric-temple-map.js"></script>
+<script type="module" src="/static/js/doric-temple-map.js"></script>
 
 Map of the 12 Doric Temples measured by Raphael in <a href="https://en.wikipedia.org/wiki/Magna_Graecia">Magna Graecia</a>. Zoom to: 
 <button id="paestum-link">Paestum</button>, 
@@ -174,14 +176,23 @@ The order of the magnitudes of the dimensions is: depth, width, height. This mea
 
 This is why the Doric building is finite and conceived for a finite eye. The entire architectural organism is contained between the depth-movement of the sides and the width-movement of the fronts; between the ascending stairs and descending roof. The movement is closed within itself, not from the outside; it becomes a being. All it is can be seen, although not in its being but in its effect. The varying intercolumniation, the asymmetries between both fronts and sides, and within individual fronts and sides, are only visible with a measuring stick and not _instantly_ to the eyes. The entire artistic meaning depends on their indirect effect: the liveliness in the repetition of equal parts. The building in its finiteness is not just rational, but the irrational moment is organically encapsulated in its creation according to its substance (_genesis eis ousian_)[^01cd8d99].
 
-[^01cd8d99]: _genesis eis ousian_ - Schöpfung gemaß der Substanz. ousia ist die erste der zehn aristotelischen Kategorien. Raphael hatte wahrscheinlich »Wesensschöpfung« übersetzt. ^WA
+[^01cd8d99]:
+	:::{.german}
+
+	_genesis eis ousian_ - Schöpfung gemaß der Substanz. ousia ist die erste der zehn aristotelischen Kategorien. Raphael hatte wahrscheinlich »Wesensschöpfung« übersetzt.
+	
+	:::
+
+	^WA
 
 ##### Constancy
 
 The Doric Tempel is a constant building volume. It cannot be prolonged, widened or raised without reconsidering the inherent laws of all dimensions in their totality. Within this constancy, and closely connected to it, one can locate an objective and subjective reality. The first consists of the probable ever increasing differentiation of the intercolumniation of the front and sides. Even after switching to contraction this was not completely abandoned. Still at Segesta, the centre intercolumniation of the temple’s front is not of the same size as the normal intercolumniation of the sides.[^MR-5]
 
 [^MR-5]:
-	This assertion and the following ones counter the measurements of Koldewey. For Segesta the difference is multiple centimeters.
+	This assertion and the following ones counter the measurements of Koldewey. For Segesta the difference is multiple centimeters. [...]
+
+	:::{.german}
 
 	Am Poseidontempel gehen Ku.P von methodisch unhaltbaren Voraussetzungen aus, überdies liegen an den Fronten wie an den Seiten Rechenfehler für die 'Joch'maße vor, so daß man zu einer völligen Verkennung des Tatbestandes kam. Es ist–wie die weitere Entwicklung ergibt– eine frei-rhythmische Kontraktion vorhanden, im Gegensatz sowohl zu der bloß einfachen wie zu der doppelten, aber metrischen Kontraktion, also ein Typus der Ringhallengliederung, der bisher ubersehen worden ist.
 
@@ -218,6 +229,10 @@ The Doric Tempel is a constant building volume. It cannot be prolonged, widened 
 	- Die errechneten Jochmaße: 4.275, 4.44, 4.61, 4.455, 4.245(?).
 
 	Mit anderen Worten: Das angebliche Normalmaß, das funfmal vorhanden sein soll, kommt nicht ein einziges Mal vor. Die angebliche Gleichheit der drei mittleren Joche und die einfache Kontraktion wandeln sich in eine Aufgipfelung der Maße nach der Mitte zu und in eine doppelte, aber ungleichmaßige, d. h. frei-rhythmische Kontraktion an der Ost- wie an der Westfront.
+
+	:::
+
+	[...]
 
 	^MR
 

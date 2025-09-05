@@ -1,4 +1,4 @@
-import "/assets/js/leaflet/leaflet.js";
+import "/static/js/leaflet/leaflet.js";
 import {
   blueIcon,
   greenIcon,
@@ -11,7 +11,7 @@ async function fetchJson(url) {
   return json;
 }
 
-const data = await fetchJson("/assets/geojson/the-doric-temple.geojson");
+const data = await fetchJson("/static/geojson/the-doric-temple.geojson");
 
 const tileLayer = L.tileLayer(
   "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
@@ -56,7 +56,7 @@ const getPopup = (layer) => {
 const sites = ["Paestum", "Agrigento", "Segesta", "Selinunte"];
 const layerGroup = L.featureGroup();
 const siteLayers = {};
-const padding = [100, 100]
+const padding = [100, 100];
 
 for (const site of sites) {
   // Add site to layer
