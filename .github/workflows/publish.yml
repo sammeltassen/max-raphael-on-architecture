@@ -1,8 +1,8 @@
 # From: https://quarto.org/docs/publishing/github-pages.html#publish-action
 on:
   workflow_dispatch:
-  push:
-    branches: main
+  # push:
+  # branches: main
 
 name: Quarto Publish
 
