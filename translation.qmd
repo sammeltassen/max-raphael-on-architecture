@@ -115,7 +115,7 @@ This definition is too vague because extension, matter and energy are such gener
 
 #### Geometric Figure
 
-##### Integrated structure <!-- Title added -->
+##### Integrated Structure <!-- Title added -->
 
 The Doric tempel is a integrated structure, i.e. the compositional fusion of two different shapes: a parallelepiped (of planes and right angles <!--Cuboid: https://en.wikipedia.org/wiki/Cuboid-->) and a prism (of planes and non-right angles) are fused into a shape whose front exists of 5 sides, and the total volume of 2 layers.[^bdb3b345] The first is the foundation, quantitatively superior; the other is the crown, spiritual closure. The compositional integration towards figural unity is achieved by (1) the diagonals that extend over the corners of the steps into the depth of the peristyle (_Pteron_), and further into the columns of the Antenfront[^MR-3]; the (2) concave upward movement, which, beginning at the stepped corners, anticipates the pediment through the tapering and slanting of the columns and beams; and finally (3) by the ridge connecting both pediments, parallel to the central depth axis.<!--Numbering added-->
 
@@ -196,7 +196,7 @@ The Doric Tempel is a constant building volume. It cannot be prolonged, widened 
 
 	Am Poseidontempel gehen Ku.P von methodisch unhaltbaren Voraussetzungen aus, überdies liegen an den Fronten wie an den Seiten Rechenfehler für die 'Joch'maße vor, so daß man zu einer völligen Verkennung des Tatbestandes kam. Es ist–wie die weitere Entwicklung ergibt– eine frei-rhythmische Kontraktion vorhanden, im Gegensatz sowohl zu der bloß einfachen wie zu der doppelten, aber metrischen Kontraktion, also ein Typus der Ringhallengliederung, der bisher ubersehen worden ist.
 
-	Puchsteins Begründung für seine Annahme, daß an der Front eine einfache Kontraktion vorliege, bezieht sich zunächst auf die Gleichheit der Stylobatplinthen an der Front. Er schreibt (s. 25, linke Spalte):
+	a\) <!-- Enumeration added --> Puchsteins Begründung für seine Annahme, daß an der Front eine einfache Kontraktion vorliege, bezieht sich zunächst auf die Gleichheit der Stylobatplinthen an der Front. Er schreibt (s. 25, linke Spalte):
 
 	> An den Fronten messen die Plinthen gleichmaßig 2.23, wenn auch nicht vollig ohne Ungenauigkeiten, die im Osten geringer als im Westen auftreten; ausgenommen von der Regel sind jedoch die Plinthen in den Eckinterkolumnien, die die beträchtlich geringere Ausdehanng von 2.09 haben. Etwas größer als an den Fronten sind die 22 mittleren Plinthen der Längsseiten, mit ähnlichen Ungenauigkeiten 2.25m lang; hier haben nicht nur die Eckinterkolumnien, sondern auch je die zweiten Säulen kleinere Plinthen von 1.95—2.09m. Diese verschiedenen Plinthengrößen sind direkt von den verschiedenen Achsweiten diktiert, die, wenn man von den Ungenauigkeiten im Versetzen absieht, an den Fronten für die mittleren Joche durchschnittlich 4.475, an den Ecken 4.28m, an den Langseiten jedoch für die Normaljoche 4.50, in den Eckjochen 4.25 und in den darauffolgenden ca. 4.33m betragen. Es sind also die Normaljoche je an den Fronten und an den Langseiten unter sich gleich, die der Langseiten aber etwas größer als die der Fronten (4.475 : 4.50), ferner sind die Eckjoche sämtlich kleiner (4.26) als die normalen, und endlich halten sieh die zweiten Joche der Langseiten mit ca. 4.33 zwischen dem Normal- und dem Eckjoch. Zur Ermittlung des Normaljoches an den Fronten und an den Langseiten bietet die größere Anzahl, aus der man das arithmetische Mittel nehmen kann, den nötigen Anhalt. Der fehlt bei den Eckjochen; da aber die der Nordwestecke nur um 1cm differieren, so muß man sie doch wohl als unter sich gleich groß betrachten, wenn auch die Südwestjoche um 4, die der Ostfront um 5cm voneinander abweichen...
 
@@ -230,9 +230,97 @@ The Doric Tempel is a constant building volume. It cannot be prolonged, widened 
 
 	Mit anderen Worten: Das angebliche Normalmaß, das funfmal vorhanden sein soll, kommt nicht ein einziges Mal vor. Die angebliche Gleichheit der drei mittleren Joche und die einfache Kontraktion wandeln sich in eine Aufgipfelung der Maße nach der Mitte zu und in eine doppelte, aber ungleichmaßige, d. h. frei-rhythmische Kontraktion an der Ost- wie an der Westfront.
 
+	b\) Nicht nur innerhaib jeder einzelnen Front, sondern auch in Vergleich beider spricht Puchstein von 'Ungenauigkeiten', die im Westen größer sein sollen als im Osten. Man kann feststellen, daß die absoluten Großen der 'Joche' im Osten und Westen nicht ein einziges Mal übereinstimmen, sobald man die unbewußten Rechenfehler beseitigt hat; ferner daß die Kontraktionsmaße an beiden Fronten differieren, denn sie betragen:
+
+	- an der Ostfront: 0.25, 0.04, 0.05, 0.19
+	- an der Westfront: 0.165, 0.17, 0.155, 0.21
+
+	c\) Für die Seiten behauptet Puchstein in bezug auf die Plinthen, daß diese mit den vier Ansnahmen der Ecken und der zweiten Joche gleichmaßig 2.25 m messen mit ahnlichen 'Ungenauigkeiten' wie an der Front; in bezug auf die Joche schreibt er (S. 29, rechte Spalte):
+	
+	> An den Langseiten ergab eine ähnliche Berechnung (die halbe Differenz der Triglyphen- und Epistylbreite) aus dem Normaljoch zunächst dasselbe Eckjoch. Außerdem hat aber hier der Architekt danach gestrebt, den plötzlichen Übergang von den Normaljochen zu den kleineren an der Ecke abzuschwächen, die Differenz zwischen ihnen weniger fühlbar zu machen und deshalb auch die zweiten Joche etwas verengert. Es ist dies eine zweijochige Kontraktion, wie wir sie weiter ansgebildet an den sog. Concordiatempel in Akragas, an den Tempel von Segesta u. a. kennen lernen werden, aber sie ist hier mit anderen Mitteln ausgeführt als an den sizilischen Beispielen. Denn während dort die postulierte Kontraktion auf die beiden Eckjoche durch Verschiebung der zweiten Saule verteilt worden ist, ist hier die ganze Kontraktion nur durch das Eckjoch bewirkt, und die Verengung der zweiten Joche durch Auseinanderdehnen und Vergroßern der zwischen den dritten Saulen liegenden Joche herbeigefuhrt worden. Es ist klar, daß darin eine Unvollkommenheit, eine unfreiwillig hervorgebrachte Jochdifferenzierung liegt, die man in den vollkommeneren Plänen in den obengenannten Tempeln vermieden hat.
+
+	Zur Widerlegung dieser Anschauung gebe ich die Maße Koldeweys von Tafel IV sowohl für die Plinthen wie für die Joche, dann die nach Koldeweys Plinthen maßen ohne 'unbewußte Rechenfehier' sich ergebenden Jochmaße. In Klammern füge ich die von mir aufgenommenen Maße bei. Ich beginne mit der Südfront und schreibe von Ost nach West:
+
+	::: {#tbl-mr-5 layout-ncol=2}
+
+	Plinthenmaß|Jochmaß bei K. u. P.|Korrigierte Jochmaße
+	---|---|---
+	S 2.28||
+	I 2.01|4.26|4.17 (4.145)|
+	S 2.04||
+	I 2.30|4.34|4.42 (4.415)
+	S 2.20||
+	I 2.24|4.50|4.47 (4.495)|
+	S 2.26 (?)||
+	I 2.26 (?)|4.51|4.52 (4.505)
+	S 2.26||
+	I 2.25|4.51|4.50 (4.495)
+	S 2.24||
+	I 2.24|4.49|4.485 (4.485)
+	S 2.25||
+	I 2.30|4.50|4.53 (4.5375)
+	S 2.21||
+	I 2.25|4.50|4.475 (4.4725)
+	S 2.24||
+	I 2.29|4.50|4.51 (4.515)
+	S 2.20||
+	I 2.30|4.495|4.5 (4.525)
+	S 2.20||
+	I 2.26|4.495|4.49 (4.4675)
+	S 2.26||
+	I 2.27|4.33|4.445 (4.4575)
+	S 2.09||
+	I 1.95|4.25|4.16 (4.1725)
+	S 2.33||
+
+	: Süd
+
+	Plinthenmaß|Jochmaß bei K. u. P.|Korrigierte Jochmaße
+	---|---|---
+	S 2.31||
+	I 1.97|4.25|4.205 (4.23)|
+	S 2.16 (?)||
+	I 2.23|4.33|4.415 (4.41)
+	S 2.21||
+	I 2.20 (?)|4.50|4.435 (4.435)|
+	S 2.26||
+	I 2.25|4.50|4.50 (4.5075)
+	S 2.24||
+	I 2.27|4.50|4.515 (4.5025)
+	S 2.25||
+	I 2.23|4.504|4.505 (4.49)
+	S 2.30||
+	I 2.25|4.50|4.525 (4.52)
+	S 2.253||
+	I 2.247|4.505|4.50 (4.50)
+	S 2.25||
+	I 2.235|4.50|4.51 (4.505)
+	S 2.30||
+	I 2.28|4.505|4.55 (4.545)
+	S 2.249||
+	I 2.26|4.497|4.50 (4.495)
+	S 2.23||
+	I 2.19|4.34|3.365 (4.375)
+	S 2.12||
+	I 2.00|4.25|4.195 (4.175)
+	S 2.27||
+
+	: Nord
+
+	Measures of plints and bays of the south and north fronts. S indicates column and I indicates intercolumnium, the space between the columns. The measures in the first two table columns are taken from @Koldewey1899. The third column recalculates the bay (1/2 of each column plus the intercolumnium) and arrives at a different measure than the publication. Raphael added his own measurements in parentheses.
+
 	:::
 
-	[...]
+
+	Aus dieser Tabelle kann man folgendes entnehmen:
+
+	1. Von den 27 --- 4 Plinthen zeigen auf der Südfront 3 das 'gleichmäßige Maß' 2.25cm, 8 weitere Abweichungen von +1 und —1 cm, mehr als die Hälfte stärkere Abweichungen, die zwischen +5 und -5 cm liegen; auf der Nordfront haben 7 das geforderte Maß, 2 zeigen die geringen Abweichnngen von +1 und -1 cm, mehr als die Hälfte stärkere zwischen -6 und +6cm.
+	2. Der Versuch, die Kontraktion der zweiten Zahl als nur scheinbar und durch Erweiterung der dritten entstanden hinzustellen, läßt sich nicht halten, weil von den 4 dritten Jochen nur eines eine merkliche Erweiterung auf 2 1/2cm uber das Normaljoch aufweist, wahrend an dieser Stelle 13 1/2cm auszugleichen gewesen wären; weil die Joche jenseits des dritten noch breitere Maße zeigen und eine Aufgipfelung der Maße nach der Mitte hin stattfindet; weil ---falls die Koldeweyschen Jochmaße gelten wurden,---an der Südfront die Kontraktion der zweiten Joche doppelt so groß sein würde wie die der Eckjoche, was mit einer indirekten Entstehung der ersten und der alleinigen Funktion der letzten schlecht zusammenstimmen würde.
+	3. Es herrscht keine völlige Symmetrie der Maße weder zwischen Nord- und Südseite, noch innerhalb jeder einzelnen Seite zwischen der Ost- und West hälfte. Der wesentliche Unterschied zwischen Süd- und Nordseite kann dahin formuliert werden, daß in dieser die Kontraktionsmaße sich verkleinern, wodurch die Symmetrie zurücktritt und die Reihentendenz stärker betont wird, während aud der Südseite beide Elemente gleichmäßig zur Geltung kommen --- ein Unterschied, der dem zwischen West- und Ostfront analog ist.
+
+	Alle aufgezahlten Argumente beweisen, daß es methodisch unmöglich ist, von 'gleichmaßigen Maßen' und 'Ungenauigkeiten' zu sprechen, wenn man sich den Einblick in die Tatsachen nicht unmoglich machen will. Trotzdem kann man den 'Durchschnitt', die 'Norm' nicht ausschalten. Aber sie sind nicht konkrete Großen, sondern das zugrundeliegende Prinzip für die Bildung der Größen, ihr Halt und ihr Rückgrat, nicht ihre Wirklichkeit. Und ihre Verwirklichung beruht nicht auf technischer 'Ungenauigkeit', sondern auf dem Prinzip des freien Rhythmus, dessen bestimmtes Grundgesetz an jeder Stelle variiert wird zu dem Zweck, eine vielfache Lösung ein und derselben Aufgabe zu schaffen: Reihe nnd Symmetrie in Beziehung zu setzen und sich durchdringen zu lassen.
+
+	:::
 
 	^MR
 
@@ -280,7 +368,7 @@ The elements of the Doric temple are not numerous but nevertheless very differen
 
 This limitation of the diversity of forms allows for precision in proportions and a relationship between proportions and various building parts, which no other art achieved. Thus the developmental direction is to bring ever more parts to the $2:3$ proportion, which was originally an angle-proportion in the ground plan construction. The ratio of middle diameter to intercolumniation, from abacus to a section of the architrave between two abaci, between triglyph and metope, between the two directrices in the plan all gradually conform to this constraint.
 
-###### Part and whole
+###### Part & Whole
 
 In the subdivision of the building certain numbers are preferred: 2 columns and 1 intercolumniation are followed by 2 metopes and 3 triglyphs; each triglyph has 2 whole and 2 half cuts and 3 elevations. Furthermore above 2 columns 5 slabs with drops [mutules]; above each intercolumniation 4 viae [spaces between mutules], so that the numbers do not only increase, but first preferring square numbers, then the numbers $2$, $3$, $5$, from which easily the proportion $2:3 = 3:5$ can be derived. This creates a relationship between the preferred proportion ($2:3$) and the number of building parts.
 
@@ -345,7 +433,7 @@ The elements of every geometric or architectural body are mathematically either 
 
 The second consequence is that the imaginary planes only meet _invisibly_ in the axes of the corner columns, while the eye perceives a curve. In this way the connection of geometrical elements is freed of the pressure of the sole geometrical sequence, in which the planes meet in straight lines and straight lines meet in a point, like in the Egyptian pyramid. The mathematical demand for a corner made place for a cylindrical body, and thereby freedom. The gap between _arché_ and Gestalt and the freedom of being correlate closely, and both in connection to each other characterise the Doric temple.
 
-##### Concave & convex
+##### Concave & Convex
 
 The recognition that the concave and convex has to be understood as the dissection of the principle of the plane in formal reality can also be explained from another viewpoint. In no other architecture there is such an independent distinction _between_ the space that is inside and outside. In Indian monolithic temples the border of the volume resulted in the annihilation of the interior, and the volume seemingly became the architecture in its entirety. In the Christian church, especially in the Gothic period, the border itself was close to being abolished, to demonstrate that, regardless how thin the shell is between inside and outside, it is principally infinite and between two essentially different spaces. At the Doric temple, the building, existing of colonnades, forms a kind of equilibrium between in- and outside. We will demonstrate how the air flows into the building in a certain rhythm, flows through it. And inversely, that the front is linked to the floor plan, and that the historical development moves towards transferring even more constructional elements of the plan to the elevation, in order to create a close connection. Nevertheless to the eye the connection to the inside is loose, because the planes of the sidewalls fall in the axes of the second column (at the Poseidontempel), and from the outside the inviting banner is missing on the temple's forehead. The message is the rejecting 'know thouselves' (_erkenne Dich selbst_) rather than ‘come to me, all, who are laborious and burdened’ which adorns the portal of every Christian church. In this way, the colonnade becomes independent of the inner decorated space and undecorated outside. It would be principally wrong to make this relative independence absolute when claiming that the Greeks were only concerned with the plastic formation of the peristyle –-- and only plastic, not spatially –-- and that no architectural imagination had operated there.[^MR-10]
 
