@@ -1,8 +1,8 @@
 // From: https://github.com/pointhi/leaflet-color-markers
 
 export const blueIcon = new L.Icon({
-  iconUrl: "/static/js/leaflet-color-markers/img/marker-icon-2x-blue.png",
-  shadowUrl: "/static/js/leaflet-color-markers/img/marker-shadow.png",
+  iconUrl: "./static/js/leaflet-color-markers/img/marker-icon-2x-blue.png",
+  shadowUrl: "./static/js/leaflet-color-markers/img/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -10,8 +10,8 @@ export const blueIcon = new L.Icon({
 });
 
 export const redIcon = new L.Icon({
-  iconUrl: "/static/js/leaflet-color-markers/img/marker-icon-2x-red.png",
-  shadowUrl: "/static/js/leaflet-color-markers/img/marker-shadow.png",
+  iconUrl: "./static/js/leaflet-color-markers/img/marker-icon-2x-red.png",
+  shadowUrl: "./static/js/leaflet-color-markers/img/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -19,8 +19,8 @@ export const redIcon = new L.Icon({
 });
 
 export const greenIcon = new L.Icon({
-  iconUrl: "/static/js/leaflet-color-markers/img/marker-icon-2x-green.png",
-  shadowUrl: "/static/js/leaflet-color-markers/img/marker-shadow.png",
+  iconUrl: "./static/js/leaflet-color-markers/img/marker-icon-2x-green.png",
+  shadowUrl: "./static/js/leaflet-color-markers/img/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -28,8 +28,8 @@ export const greenIcon = new L.Icon({
 });
 
 export const orangeIcon = new L.Icon({
-  iconUrl: "/static/js/leaflet-color-markers/img/marker-icon-2x-orange.png",
-  shadowUrl: "/static/js/leaflet-color-markers/img/marker-shadow.png",
+  iconUrl: "./static/js/leaflet-color-markers/img/marker-icon-2x-orange.png",
+  shadowUrl: "./static/js/leaflet-color-markers/img/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -37,8 +37,8 @@ export const orangeIcon = new L.Icon({
 });
 
 export const yellowIcon = new L.Icon({
-  iconUrl: "/static/js/leaflet-color-markers/img/marker-icon-2x-yellow.png",
-  shadowUrl: "/static/js/leaflet-color-markers/img/marker-shadow.png",
+  iconUrl: "./static/js/leaflet-color-markers/img/marker-icon-2x-yellow.png",
+  shadowUrl: "./static/js/leaflet-color-markers/img/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -46,8 +46,8 @@ export const yellowIcon = new L.Icon({
 });
 
 export const violetIcon = new L.Icon({
-  iconUrl: "/static/js/leaflet-color-markers/img/marker-icon-2x-violet.png",
-  shadowUrl: "/static/js/leaflet-color-markers/img/marker-shadow.png",
+  iconUrl: "./static/js/leaflet-color-markers/img/marker-icon-2x-violet.png",
+  shadowUrl: "./static/js/leaflet-color-markers/img/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -55,8 +55,8 @@ export const violetIcon = new L.Icon({
 });
 
 export const greyIcon = new L.Icon({
-  iconUrl: "/static/js/leaflet-color-markers/img/marker-icon-2x-grey.png",
-  shadowUrl: "/static/js/leaflet-color-markers/img/marker-shadow.png",
+  iconUrl: "./static/js/leaflet-color-markers/img/marker-icon-2x-grey.png",
+  shadowUrl: "./static/js/leaflet-color-markers/img/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
@@ -64,8 +64,8 @@ export const greyIcon = new L.Icon({
 });
 
 export const blackIcon = new L.Icon({
-  iconUrl: "/static/js/leaflet-color-markers/img/marker-icon-2x-black.png",
-  shadowUrl: "/static/js/leaflet-color-markers/img/marker-shadow.png",
+  iconUrl: "./static/js/leaflet-color-markers/img/marker-icon-2x-black.png",
+  shadowUrl: "./static/js/leaflet-color-markers/img/marker-shadow.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
   popupAnchor: [1, -34],
