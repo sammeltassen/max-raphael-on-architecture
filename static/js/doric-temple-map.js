@@ -4,6 +4,7 @@ import {
   greenIcon,
   greyIcon,
 } from "./leaflet-color-markers/leaflet-color-markers.js";
+// import data from "../geojson/the-doric-temple.geojson" with { type: "json" };
 
 async function fetchJson(url) {
   const response = await fetch(url);
@@ -11,7 +12,7 @@ async function fetchJson(url) {
   return json;
 }
 
-const data = await fetchJson("/static/geojson/the-doric-temple.geojson");
+const data = await fetchJson("./static/geojson/the-doric-temple.geojson");
 
 const tileLayer = L.tileLayer(
   "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
