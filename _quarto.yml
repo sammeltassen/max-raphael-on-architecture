@@ -6,6 +6,7 @@ book:
   title: "Max Raphael on Architecture"
   author: "Jules Schoonman"
   date: "9/2/2025"
+  site-url: "https://sammeltassen.nl/max-raphael-on-architecture/"
   chapters:
     - index.qmd
     - translation.qmd
