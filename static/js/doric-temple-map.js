@@ -1,4 +1,4 @@
-import "/static/js/leaflet/leaflet.js";
+import "./leaflet/leaflet.js";
 import {
   blueIcon,
   greenIcon,
