@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: build
 
 book:
   title: "Max Raphael on Architecture"
@@ -10,6 +11,7 @@ book:
     - translation.qmd
     - commentary.qmd
     - references.qmd
+    # - illustrations.qmd
 
 bibliography: ref/bibliography.bib
 # csl: ref/chicago-notes-bibliography-classic.csl
@@ -41,5 +43,5 @@ format:
     other-links:
       - text: Max Raphael Project
         href: https://www.maxraphael.org/
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+  # documentclass: scrreprt
